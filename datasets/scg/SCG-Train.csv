@@ -1,0 +1,298 @@
+article_path,question,answer
+train/102.txt,ตัวแทนจาก WEDO Developer “Team 26” ชื่ออะไร?,“Team 26”
+train/102.txt,มีกี่ประเทศในเอเชียตะวันออกเฉียงใต้ที่แข่งขันใน AWS Microservices GameDay 2020,10
+train/102.txt,การแข่งขันมีชื่อว่าอะไร,AWS Microservices GameDay 2020
+train/102.txt,แข่งขันเกี่ยวกับอะไร,แข่งกันตั้งระบบจากโจทย์ที่ได้รับมาให้เสถียรและมีประสิทธิภาพสูงสุด
+train/102.txt,ใครได้รับชัยชนะในการแข่งขันนี้,ตัวแทนจาก WEDO Developer “Team 26”
+train/102.txt,กลุ่มผู้ใช้บริการ Amazon Web Services (AWS) มีกี่คน,กว่า 160 คน
+train/102.txt,กลุ่มผู้ใช้บริการมาจากกี่องค์กร,43 องค์กรชั้นนำ
+train/102.txt,มีแฮชแท็กอะไรบ้างจากบทความ,#WEDO #Developer #AWS #AWSGameDay2020
+train/103.txt,โปรแกรมการทำงานจริงสำหรับ WEDO Young Talent ใช้เวลานานแค่ไหน?,10 สัปดาห์
+train/103.txt,concept ของ  WEDO Young Talent คืออะไร,“WEDO Young Talent Innoprise”
+train/103.txt,ตรวจสอบกำหนดการของโครงการได้ที่ไหน?,ทางอีเมล
+train/103.txt,จากบทความ ประกอบด้วย hashtag อะไรบ้าง?,#WEDO #DigitalOffice #GoBigRed #WEDOYoungTalent
+train/104.txt,ตั้งการ์ดรับมืออะไร?,COVID-19
+train/104.txt,"ความหมายของ ""Core"" ใน Innovation portfolio คืออะไร?",การนำนวัตกรรมมาพัฒนาต่อยอดธุรกิจเดิมที่มีอยู่
+train/104.txt,"ความหมายของ ""Adjacent"" ใน Innovation portfolio คืออะไร?",สร้าง customer experience ใหม่ ๆ
+train/104.txt,จากบทความ Democratization มีความหมายอย่างไร,เพิ่มโอกาสให้ทุกคนเข้าถึงสินค้าและบริการได้มากยิ่งขึ้น
+train/104.txt,ตัวอย่างการ Democratization เช่นอะไรบ้าง?,เราสามารถเรียกรถ taxi ผ่านแอปได้ แม้จะอยู่ในที่ ๆ ไกลตัวเมือง
+train/104.txt,Monetization ในบทความคืออะไร,สามารถสร้างรายได้ได้
+train/104.txt,Facebook WEDO จะมีอะไรแจกให้ทุกคนเรื่อย ๆ,how to ดี ๆ
+train/104.txt,ดาวน์โหลด checklist ได้ที่ไหน?,http://bit.ly/37t39T7
+train/104.txt,มี hashtag อะไรบ้างในบทความ?,#WEDO #NewNormal
+train/106.txt,อะไรสำคัญกว่าความเก่ง,“ชุดความคิดและทัศนคติ”
+train/106.txt,อะไรคือสิ่งที่สามารถฝึกฝนได้,ทักษะ
+train/106.txt,อะไรคือสิ่งที่ท้าทายที่สุดในการสรรหาบุคลากรที่มีความสามารถ?,“ความคิด หรือ ทัศนคติ”
+train/106.txt,สิ่งที่องค์กรยุคนี้มองหาจาก talent คือ?,แนวคิดแบบ “Intrepreneur”
+train/106.txt,แนวคิดแบบ “Intrepreneur” คือ?,เราเปรียบเหมือนเจ้าของกิจการในองค์กรที่เราร่วมงานอยู่ เราอยากจะสร้างความเปลี่ยนแปลง กล้าล้มเหลว กล้าลองผิดลองถูก และที่สำคัญ เราอยากช่วยให้ลูกค้าของเรามีชีวิตที่ดีขึ้น
+train/106.txt,ข้อความอะไรคือส่วนขยายของ marketing hashtag #WEDO ?,"we hire for attitude, we train for skill."
+train/107.txt,หากน้องคนไหนยังไม่ได้รับอีเมล สามารถแจ้งได้ทางช่องทางใด,inbox มาบอกที่เพจ WEDO
+train/107.txt,WEDO Young Talent Program 2021 เหมาะสำหรับใคร,คนรุ่นใหม่ที่อยากมาร่วมประสบการณ์ทำงานจริงและฝึกตัวเองให้เป็นคน “T-shape”
+train/107.txt,WEDO ส่งอะไรไปให้ผู้เข้าร่วมทางอีเมล?,ข่าวสารของโครงการ
+train/107.txt,มีแฮชแท็กอะไรบ้างจากบทความ?,#WEDO #DigitalOffice #GoBigRed #WEDOYoungTalent
+train/108.txt,โครงการ WEDO Young Talent เริ่มต้นปีใด,2021
+train/108.txt,WEDO Young Talent Program มีสาขาอะไรบ้าง?,Design-Business-Technology
+train/108.txt,ปิดรับสมัครเมื่อใด,30 พฤศจิกายน 2563
+train/108.txt,อยากจะสมัครโครงการ ดูได้ที่ไหน?,https://bit.ly/3kYOovn
+train/108.txt,บทความผู้เขียนใส่แฮชแท็กอะไรลงไปบ้าง?,#WEDO #DigitalOffice #GoBigRed #WEDOYoungTalent
+train/110.txt,คุณสามารถทำงานที่ไหน?,อยู่ที่ไหนก็ทำงานได้
+train/110.txt,WEDO กำลังมองหาอะไร?,ทีมงานที่มี passion อยากสร้างสรรค์ผลงานดี ๆ
+train/110.txt,ทีมงาน Corporate Innovation สังกัดองค์กรใด,SCG Cement-Bulding Materials
+train/110.txt,อยากทราบตำแหน่งที่ WEDO เปิดรับสมัครทั้งหมดได้ที่ URL ใด?,https://jobs.techsauce.co/scg-digital-life/jobs
+train/110.txt,นอกจาก hashtag #WEDO ยังมี hashtag อะไรอีกบ้างในบทความ?,#DigitalOffice #GoBigRed #FutureTalent #SoftwareDev #Jobopening #RecruitmentIT #FindITJob #หางานIT #งานIT #หางานไอที #งานไอที
+train/113.txt,อะไรคือการค้นหาความสามารถด้าน Data Science ที่ฉีกตำรา?,"โครงการ ""WEDO X Harbour.Space @UTCC Audition Day 2020"""
+train/113.txt,ผู้ที่จะนำศาสตร์ด้าน Data Science ไปสร้างคุณค่าสูงสุดให้กับธุรกิจได้ ต้องมีอะไร?,"ส่วนผสมที่ลงตัวระหว่าง hard skill, soft skill และ mindset "
+train/113.txt,โครงการที่จัดขึ้นเมื่อวันที่ 22 ตุลาคมที่ผ่านมา คืออะไร,"โครงการ ""WEDO X Harbour.Space @UTCC Audition Day 2020"""
+train/113.txt,"โครงการ ""WEDO X Harbour.Space @UTCC Audition Day 2020"" จัดขึ้นเมื่อใด",วันที่ 22 ตุลาคมที่ผ่านมา
+train/113.txt,"โครงการ ""WEDO X Harbour.Space @UTCC Audition Day 2020"" เฟ้นหาใคร",ผู้รับทุนปริญญาโทด้าน Data Science
+train/113.txt,ด่านทดสอบที่วัดมากกว่าการเป็นนักสถิติหรือนักคณิตศาสตร์คืออะไร,ต้องเข้าใจผู้คนเป็นอย่างดี ตลอดจนสามารถค้นหาและเข้าใจ insight ของข้อมูลธุรกิจได้
+train/113.txt,hashtag ในบทความประกอบด้วยอะไรบ้าง?,#WEDO #DigitalOffice #GoBigRed #WEDOxHarbourSpace #AuditionDay2020
+train/114.txt,คนทำงานในยุค Digital Economy ต้องเป็นอย่างไร?,ต้องกล้าคิด กล้าทำและเป็น “T-shape”
+train/114.txt,สมัครเข้าร่วมโครงการได้ที่?,https://bit.ly/3kYOovn
+train/114.txt,คนที่เป็นนักศึกษาในยุค Digital Economy ต้องเป็นอย่างไร?,ฝึกตัวเองให้เป็นคน “T-shape”
+train/114.txt,ทักษะ T-shape ที่ WEDO คืออะไร?,Design-Business-Technology
+train/114.txt,Worry-free คืออะไร?,ฝึกงานช่วงไหนก็ได้ของปีที่สะดวก
+train/114.txt,ระยะเวลาการฝึกขั้นต่ำนานเท่าใด?,2 เดือน
+train/114.txt,กำหนดการของกิจกรรมอาจมีการเปลี่ยนแปลงได้อย่างไร?,กระบวนการคัดเลือกและคำตัดสินเป็นดุลยพินิจของทีมงาน WEDO
+train/114.txt,เมื่อจบโครงการ น้องๆจะได้รับอะไร,Certificate
+train/114.txt,T-shape คืออะไร,ไม่เพียงรู้ลึกเหมือนหางตัว T แต่ต้องรู้รอบเหมือนหัวตัว T ด้วย
+train/114.txt,น้อง ๆ ทำงานที่ไหนกับพี่ ๆ WEDO,Work from anywhere
+train/114.txt,วัฒนธรรมที่เอื้อให้เกิด Corporate Innovation คืออะไร,ความเป็น DODEE
+train/114.txt,เปิดรับสมัครให้เข้าร่วมโครงการเมื่อใด,วันนี้ – 30 พฤศจิกายน 2563
+train/114.txt,น้อง ๆ จะได้ร่วมงานเมื่อใด,ปี 2564
+train/114.txt,hashtag ในบทความประกอบด้วยอะไรบ้าง?,#WEDO #DigitalOffice #GoBigRed #WEDOYoungTalent
+train/116.txt,Harbour.Space @UTCC ให้ทุนปริญญาโทด้านใด,Data Science
+train/116.txt,งาน Audition Day 2020 เปรียบเสมือนอะไร?,ยอดเขาสุดแกร่งอีกหนึ่งลูก
+train/116.txt,ผู้พิชิตทุนการศึกษาปริญญาโท ต้องใส่ความกล้า เดินหน้าในงาน?,Audition Day 2020
+train/116.txt,บทความผู้เขียนใส่แฮชแท็กอะไรลงไปบ้าง?,#WEDO #DigitalOffice #GoBigRed #WEDOxHarbourSpace #AuditionDay2020
+train/117.txt,อะไรต้องก้าวไปพร้อมกัน,Innovation & Sustainability
+train/117.txt,WEDO อยากให้ทุกคนมีอะไร?,คุณภาพชีวิตที่ดีและยั่งยืน
+train/117.txt,นวัตกรรมที่ยั่งยืนไม่สามารถสร้างขึ้นโดยปราศจากอะไร,ความเข้าใจในผู้ใช้งานตลอดจนข้อมูล insight
+train/117.txt,ข้อมูลวิจัยต่าง ๆ ก็ไม่สามารถสร้างประโยชน์ได้สูงสุด หากขาดอะไร,digital solution
+train/117.txt,WEDO คืออะไร,หน่วยงาน corporate innovation ที่มุ่งสร้างนวัตกรรมเพื่อชีวิตที่ดีขึ้น
+train/117.txt,RISC โดย MQDC คืออะไร,ศูนย์วิจัยและนวัตกรรมเพื่อความยั่งยืนที่มุ่งสร้างความสุขของทุกสรรพสิ่ง
+train/117.txt,WEDO และ RISC โดย MQDC ร่วมกันสร้างอะไร,จุดบรรจบของดิจิทัลเทคโนโลยีดี ๆ กับงานวิจัยและพัฒนาเจ๋ง ๆ
+train/117.txt,WEDO และ RISC โดย MQDC จะช่วยกันสร้างผลงานที่เป็นอย่างไร,ผลงานที่เกิด impact เป็นประโยชน์ต่อสังคมในวงกว้าง และสร้างความยั่งยืนได้
+train/117.txt,บทความผู้เขียนใส่แฮชแท็กอะไรลงไปบ้าง?,#WEDO #RISC #DigitalOffice #GoBigRed
+train/118.txt,ผู้นำด้าน Digital Transformation ชื่ออะไร?,คุณ อาร์ท อภิรัตน์ หวานชะเอม
+train/118.txt,"ใครคือ Chief Digital Officer ของ SCG Cement-Building Materials Co. , Ltd?",คุณ อาร์ท อภิรัตน์ หวานชะเอม
+train/118.txt,Chief Digital Officer ขับเคลื่อนองค์กรด้วยอะไร,Design-Business-Technology
+train/118.txt,สามารถฟังความเห็นของ Chief Digital Officer ได้ในวันไหน,วันพุธที่ 23 กันยายน
+train/118.txt,สามารถฟังความเห็นของ Chief Digital Officer ได้ทางใด,ทางเพจ True Digital Academy
+train/118.txt,สามารถฟังความเห็นของ Chief Digital Officer ได้ในเวลาใด,เวลา 1 ทุ่มตรง
+train/118.txt,ก่อนจะเป็น Chief Digital Officer คุณ อาร์ท อภิรัตน์ หวานชะเอม เคยเป็นอะไร,Architect
+train/118.txt,นอกจาก #WEDO #DigitalOffice #GoBigRed บทความผู้เขียนใส่แฮชแท็กอะไรลงไปบ้าง?,#truedigitalacademy #digital #digitaltransformation #SCG #innovation #skills #data #digitalmarketing #technology #code
+train/119.txt,WEDO ร่วมมือกับ บริษัท ใดบ้าง?,SCG Roof
+train/119.txt,สิ่งใดช่วยให้เทคโนโลยีสร้างประโยชน์ได้จริง,พัฒนามาจากความเข้าใจ insight ของธุรกิจ
+train/119.txt,WEDO ร่วมกับ SCG Roof ทำอะไร,นำเอา Computer Vision มาผนวกกับ insight ของธุรกิจ
+train/119.txt,อะไรคือสิ่งสำคัญในการให้บริการ,ความปลอดภัย
+train/119.txt,การตรวจเช็คความพร้อมของช่างต้องการให้เกิดขึ้นที่ไหน,ณ จุดก่อสร้าง
+train/119.txt,การตรวจสอบอุปกรณ์ safety ของช่างต้องการให้เป็นแบบใด,แบบ real time
+train/119.txt,มี hashtag อะไรบ้างในบทความ?,#WEDO #DigitalOffice #GoBigRed #ComputerVision #facerecognition
+train/121.txt,จะ Download เอกสาร Checklist ได้ที่ไหน?,https://bit.ly/2CkVMQg
+train/121.txt,ชื่อหัวข้อ live คืออะไร?,ถอดรหัส 'วิถีปกติใหม่' อยู่อย่างไรให้รอดและรุ่ง
+train/121.txt,ใครเป็นผู้พูดหัวข้อถอดรหัส 'วิถีปกติใหม่' อยู่อย่างไรให้รอดและรุ่ง,พี่อาร์ท อภิรัตน์ หวานชะเอม
+train/121.txt,พบกับ live ได้ที่เพจอะไร,เพจ Techsauce Thailand
+train/121.txt,live จัดขึ้นเวลาใด,16.00 น.
+train/121.txt,live จัดตอนกี่โมง,16.00 น.
+train/121.txt,อะไรจะช่วยตรวจสอบว่าเรามีสิ่งนี้เพื่อพร้อมรับกับความเปลี่ยนแปลงที่จะเกิดขึ้นแล้วหรือยัง,New Normal Innovation Checklist
+train/121.txt,ครั้งนี้ Techsauce Live มีกิจกรรมพิเศษอะไร,Mini Workshop
+train/121.txt,มี hashtag อะไรบ้างในบทความ?,#WEDO #DigitalOffice #GoBigReheater
+train/122.txt,สนใจในตัวงานด้าน ดูรายละเอียดได้ที่ไหน?,https://jobs.techsauce.co/scg-digital-life/jobs
+train/122.txt,ทุกคนจะรู้จัก WEDO มากขึ้นภายในเวลาเท่าใด,34 วินาที
+train/122.txt,มี hashtag อะไรบ้างในบทความ?,#WEDO #DigitalOffice #GoBigRed
+train/123.txt,มุมมองของ WFA คืออะไร?,ให้คุณค่ากับผลลัพธ์ของงานมากกว่า ตราบใดที่ยังสามารถวัดผลงานได้ สถานที่ทำงานและเวลาในการทำงานก็ย่อม flexible ได้
+train/123.txt,WFA คืออะไร?,Work From Anywhere
+train/123.txt,ROWE หมายถึงอะไร?,Result only work environment
+train/123.txt,มีผู้บริหาร CFO กี่เปอร์เซ็นต์ ที่เชื่อว่า เห็นว่าบริษัทตัวเองมีตำแหน่งที่ WFH ได้ตลอดไป?,ราว 70%
+train/123.txt,ROWE ให้คุณค่ากับอะไร,ผลลัพธ์ของงาน
+train/123.txt,Talent ที่น่าจับตามอง มักเลือกเป็นอะไร,freelance
+train/123.txt,เมื่อทำงานนอกออฟฟิศ พนักงานจำนวนกี่เปอร์เซ็นทำงานมีประสิทธิภาพมากขึ้น,48%
+train/123.txt,เมื่อทำงานนอกออฟฟิศ พนักงานจำนวนกี่เปอร์เซ็นมีสุขภาพจิตดีขึ้น,60%
+train/123.txt,จากบทความ มีการอ้างอิงบทความข้างนอกที่ URL อะไร?,https://www.bot.or.th/Thai/ResearchAndPublications/articles/Pages/Article_20May2020.aspx
+train/123.txt,มี hashtag อะไรบ้างในบทความ?,#WEDO #DigitalOffice #GoBigRed
+train/124.txt,เราต้องการให้ทีมของเราเลือกอะไร?,lifestyle ที่ใช่
+train/124.txt,lifestyle ที่ใช่ เป็นอย่างไร?,ได้งานและได้ความสบายใจ
+train/124.txt,website ของ WEDO คืออะไร?,http://bit.ly/SCGDigitalOffice
+train/124.txt,WEDO คืออะไร,หน่วยงานที่ทำ Digital Transformation ของ SCG Cement-Bulding Materials
+train/124.txt,WEDO ทำงานแบบ work from home มากี่เดือน,3 เดือน
+train/124.txt,ในบทความนี้ประกอบด้วย hashtag อะไรบ้าง?,#WEDO #DigitalOffice #GoBigRed
+train/125.txt,WEDO มองหาตำแหน่งอะไร?,ตามหา Technology Developer (3-month contract)
+train/125.txt,ดูรายละเอียดเกี่ยวกับตำแหน่งได้ที่ไหน?,https://jobs.techsauce.co/scg-digital-life/jobs/technology-developer
+train/125.txt,ตำแหน่งที่มองหา ว่าจ้างเป็นระยะเวลาเท่าไหร่?,3-month
+train/125.txt,passion ของผู้ที่จะสมัครตำแหน่ง Technology Developer คืออะไร,อยากพัฒนาโปรแกรมดี ๆ ให้ user ใช้งานได้ง่าย ๆ
+train/125.txt,ในบทความนี้ประกอบด้วย hashtag อะไรบ้าง นอกจาก #WEDO ?,#DigitalOffice #GoBigRed
+train/126.txt,อะไรที่เร่งให้เราต้องเปลี่ยนแปลงเพื่อความอยู่รอด?,COVID-19
+train/126.txt,ความหมายของ DODEE คืออะไร?,DNA ของคนทำงานยุคใหม่ ที่ครบเครื่องทั้งทัศนคติและทักษะที่พร้อมต่อการสร้างนวัตกรรมไปสู่การเปลี่ยนแปลงในยุค new normal
+train/126.txt,DNA ของคนทำงานยุคใหม่คืออะไร?,DODEE
+train/126.txt,ในบทความนี้ประกอบด้วย hashtag อะไรบ้าง นอกจาก #WEDO ?,#DigitalOffice #GoBigRed
+train/128.txt,“DODEE” ที่ว่าคืออะไร?,ไม่ใช่หน้าตา! แต่คือ “ตัวตน” ที่ดูดี
+train/128.txt,“DODEE” ประกอบด้วยตัวตนต่างๆ กี่เรื่อง?,3
+train/128.txt,Mindset Dee มีอะไรบ้าง?,"Humble, Passionate, Fearless"
+train/128.txt,Skillset Dee ประกอบด้วยอะไรบ้าง?,"Soft Skills, Technical Skills"
+train/128.txt,นอกจาก Mindset Dee และ Skillset Dee ยังมีอะไรอีก?,Contribution Dee
+train/128.txt,อะไรคือทางรอดของยุคนี้,นวัตกรรม
+train/128.txt,WEDO ย่อมาจากอะไร,we are Digital Office
+train/128.txt,การเปลี่ยนแปลงที่ยั่งยืนต้องเริ่มจากอะไร,คน
+train/128.txt,วัตถุประสงค์ของการสร้าง DODEE คืออะไร,เพื่อเป็น DNA ของคนที่เราเชื่อว่าเหมาะสมกับงานและองค์กรแห่งอนาคต
+train/128.txt,WEDO ที่มาจาก we do หมายถึงอะไร,ผู้ที่ลงมือทำ
+train/128.txt,ต้นแบบของคน WEDOO คือสิ่งใด,DODEE
+train/128.txt,นอกจาก #GoBigRed บทความนี้ประกอบด้วย hashtag อะไรบ้าง ?,#WEDO #DigitalOffice
+train/129.txt,ชื่อรายการตรวจสอบ เช็คลิสต์แห่งยุค คืออะไร?,New Normal Innovation Checklist
+train/129.txt,SCG-CBM ย่อมาจากอะไร,บริษัท SCG Cement-Building Materials
+train/129.txt,session ที่เป็นไฮไลท์ของงานมีชื่อว่าอะไร,New Normal Innovation Checklist คุณมีสิ่งเหล่านี้หรือไม่?
+train/129.txt,งานที่จัดขึ้นนี้ชื่อว่างานอะไร,งาน Techsauce Virtual Summit 2020
+train/129.txt,ผู้พูด session ที่เป็นไฮไลท์ของงานคือใคร,คุณอภิรัตน์ หวานชะเอม
+train/129.txt,ผู้ถือบัตรทุกท่านสามารถดาวน์โหลดสิ่งใดจากเว็บไซต์,Material และ Slide
+train/129.txt,ผู้อยากชมย้อนหลัง สามารถซื้อบัตรชมได้ที่เว็บอะไร,https://virtualsummit.techsauce.co/
+train/129.txt,ผู้ชมสามารถดูย้อนหลังได้ถึงวันไหน?,27 มิถุนายน 2020
+train/130.txt,ใครคือ Chief Digital Officer ของ SCG CBM?,คุณอภิรัตน์ หวานชะเอม
+train/130.txt,ผู้เข้าร่วมสามารถดูวิดีโอย้อนหลังได้ถึงเมื่อใด?,27 มิถุนายน 2020
+train/130.txt,ผู้อยากชมย้อนหลัง สามารถซื้อบัตรชมได้ที่เว็บอะไร,https://virtualsummit.techsauce.co/
+train/131.txt,สายงานอะไรที่เนื้อหอมที่สุดในยุคนี้?,Data Science
+train/131.txt,tuition fee ตลอดหลักสูตร 2 ปี มูลค่า,"45,800 ยูโร"
+train/131.txt,โปรแกรมใช้เวลาเรียนกี่ปี,2
+train/131.txt,สนใจทุนต้องสมัครที่ link ไหน?,https://bit.ly/SCGscholarship-apply
+train/131.txt,รายละเอียดของทุนดูได้ที่ไหน?,http://bit.ly/SCGscholarship
+train/131.txt,ทุนนี้ให้เรียนกับมหาวิทยาลัยใด,Harbour.Space @ UTCC
+train/131.txt,เมื่อเรียนจบ จะมีโอกาสได้ร่วมงานกับบริษัทใด,SCG
+train/131.txt,หมดเขตรับสมัครเมื่อไร,30 มิ.ย.นี้
+train/131.txt,สถานที่เรียนคือที่ไหน,มหาวิทยาลัยหอการค้าไทย
+train/131.txt,ผู้ได้รับทุนจะได้ทำงานในลักษณะ internship กับ SCG วันละกี่ชั่วโมง,วันละ 4 ชม.
+train/131.txt,ผู้ได้รับทุนจะได้ทำงานในลักษณะ internship กับ SCG รวมกี่ชั่วโมงต่อสัปดาห์,รวม 20 ชม./สัปดาห์
+train/131.txt,มหาวิทยาลัยคาดว่าจะดำเนินการสอนแบบมี Social distance เมื่อไร,ปลายเดือนสิงหา
+train/131.txt,ผู้สอนในหลักสูตรนี้เป็นใคร,อาจารย์ต่างชาติ
+train/133.txt,Digital Transformation ไม่ใช่ทางเลือกแต่คืออะไร?,ถนนเส้นหลัก
+train/134.txt,ใครคือ CDO Chief Digital Officer แห่ง CBM - SCG?,พี่อาร์ท อภิรัตน์ หวานชะเอม
+train/134.txt,บทความนี้จะชวนทุกคนไปทำอะไร,start with why และเรียนรู้ how to ฉบับย่อสำหรับการทำ Business Transformation ในองค์กรใหญ่
+train/135.txt,ทุนค่าสมัครเรียนแบบ Full Application มูลค่า เท่าไหร่?,125 ยูโร
+train/135.txt,วันสุดท้ายของการสมัครทุน Data Science คือวันใด?,30 มิถุนายน 63
+train/135.txt,อะไรคือหนึ่งในอาวุธสำหรับนักรบยุคดิจิทัล,Data
+train/135.txt,มหาวิทยาลัยใดที่เป็น Disruptive University แห่งยุค,Harbour.Space @ UTCC
+train/135.txt,กุญแจที่ช่วยไข insight ให้ธุรกิจชนะใจลูกค้าและอยู่รอดคืออะไร,Data Science
+train/135.txt,เรื่องที่ใคร ๆ ก็ให้ความสำคัญคืออะไร,Data-Driven
+train/135.txt,แฮชแท็กในบทความมีอะไรบ้าง?,#WEDO #DigitalOffice #GoBigRed
+train/136.txt,ความรู้สำหรับงานในอนาคตที่ทุกคนต้องมีคืออะไร?,T-shaped Professional
+train/136.txt,อยากสมัครทุน กดสมัครได้ที่ไหน?,https://bit.ly/SCGscholarship-apply
+train/136.txt,T-shaped Professional คืออะไร,รู้ลึกและรู้รอบ
+train/136.txt,Disruptive University ที่โดดเด่นที่สุดในยุคนี้ คือมหาวิทยาลัยใด,HARBOUR.SPACE @ UTCC
+train/136.txt,HARBOUR.SPACE @ UTCC เป็นมหาวิทยาลัยจากประเทศอะไร,สเปน
+train/136.txt,ใครคือผู้ก่อตั้ง Harbor Space,Svetlana Velikanova
+train/136.txt,Harbor Space เน้นในเรื่องใด,เน้นเรียนและทำงานจริง กับผู้ที่เป็นตัวจริงใน industry
+train/136.txt,ผู้สอน high-tech entrepreneurship คือใคร,คุณ Kamran Elahian
+train/136.txt,แฮชแท็กในบทความมีอะไรบ้าง นอกจาก #WEDO ?,#DigitalOffice #GoBigRed
+train/137.txt,วันสุดท้ายของการสมัครเข้าศึกษาระดับปริญญาโทด้าน Data Science คือวันไหน?,30 มิถุนายน 63
+train/137.txt,อยากรู้จักเกี่ยวกับ WEDO ดูได้ที่ไหน?,http://bit.ly/SCGDigitalOffice
+train/137.txt,หลักสูตรการศึกษาของ HARBOUR.SPACE ควบรวมเรื่องใดบ้าง,"Design, Business, Technology"
+train/137.txt,WEDO มีทุนป.โท Data Science มูลค่าเท่าใด,กว่า 2 ล้านบาท
+train/137.txt,แฮชแท็กในบทความมีอะไรบ้าง?,#WEDO #DigitalOffice #GoBigRed
+train/201.txt,Digital Office คืออะไร,หน่วยงานน้องใหม่ที่มุ่งมั่นนำดิจิทัลเทคโนโลยีมาประยุกต์ใช้กับการดำเนินงานต่างๆ เพื่อเพิ่มความสามารถในการเข้าถึงและเข้าใจลูกค้าได้มากขึ้น
+train/201.txt,ปัจจุบันเอสซีจีมุ่งเข้าสู่การทำธุรกิจแบบใด,“Experience Economy” หรือเศรษฐกิจยุคประสบการณ์
+train/201.txt,ใครคือกรรมการผู้จัดการใหญ่ ธุรกิจซีเมนต์และผลิตภัณฑ์ก่อสร้าง เอสซีจี,พี่นิธิ ภัทรโชค
+train/201.txt,หัวใจสำคัญที่สุดที่พี่อาร์ทให้ความสำคัญคืออะไร,ลูกค้า
+train/201.txt,สิ่งสำคัญในการทำธุรกิจสำหรับพี่อาร์ทคืออะไร,การส่งมอบคุณค่าและประสบการณ์ (Value and Experience) ให้แก่ลูกค้า
+train/201.txt,ธุรกิจยุคใหม่เน้นขายอะไร,ประสบการณ์ (Experience) และ คุณค่า ( Value)
+train/201.txt,สิ่งที่เอสซีจีขายไม่ใช่เพียงผลิตภัณฑ์ก่อสร้าง แต่ขายอะไรด้วย,ประสบการณ์
+train/201.txt,การทำงานของทุกคนในทีมเริ่มต้นจากการย้อนตั้งคำถามว่าอะไรก่อน,อะไรคือบ้าน? อะไรคือ Better Living?
+train/205.txt,เครื่องมือทางนวัตกรรมที่นำมาใช้เพื่อพัฒนาธุรกิจใหม่ ภายใต้เทรนด์ creative economy ได้แก่อะไรบ้าง ,"design thinking, business model canvas และ lean startup "
+train/205.txt,ลูกค้าองค์กรสามารถติดต่อได้ที่ใคร,คุณใบหม่อน
+train/205.txt,CTC2020 จัดขึ้นเมื่อใด,วันที่ 19 ม.ค. 2020
+train/205.txt,CTC2020 จัดขึ้นที่ไหน,BITEC บางนา 
+train/205.txt,ในงาน CTC2020 มี session กี่ session,50+ Session
+train/205.txt,ในงาน CTC2020 มี speaker กี่คน,90+ Speaker
+train/207.txt,Business ทั้งหมดของ SCG มีอะไรบ้าง,SCG มีธุรกิจทั้งหมด 3 ธุรกิจหลัก คือ ธุรกิจซีเมนต์และผลิตภัณฑ์ก่อสร้าง ธุรกิจแพคเกจจิ้ง และธุรกิจเคมิคอลส์
+train/207.txt,Digital Office จัดตั้งขึ้นเมื่อใด,เมษาปีที่แล้ว
+train/207.txt,ในวันนี้อะไรที่ส่งผลให้หลายๆ องค์กรต้องปรับตัวเองเพื่อความอยู่รอด,การระบาดของ Covid-19
+train/207.txt,ผู้นำสำคัญในการทำ Business Transformation ของ SCG คือใคร,คุณอาร์ท-อภิรัตน์ หวานชะเอม
+train/207.txt,Digital Office เรียกอีกชื่อหนึ่งว่าอะไร,WEDO
+train/207.txt,WEDO มีทีมในประเทศไทยกี่คน,ราว 150 คน
+train/207.txt,WEDO มีทีมในประเทศอินเดียกี่คน,ราว 60 คน
+train/207.txt,สิ่งแรกในการทำ Business Transformation คืออะไร,ทำยังไงให้ลูกค้าได้มากกว่าการซื้อวัสดุก่อสร้าง
+train/207.txt,คนยุคใหม่ให้ความสำคัญกับอะไรนอกเหนือจากสินค้าหรือบริการ,Experience
+train/207.txt,อุปสรรคแรกของการทำ Business Transformation ของ SCG คืออะไร,วัฒนธรรมขององค์กรใหญ่ปัจจุบัน
+train/207.txt,Innovation คืออะไร,การตอบโจทย์เดิมที่มีอยู่ด้วยวิธีการใหม่ที่ดีกว่า
+train/207.txt,Innovation มีกี่ area,3 Area
+train/207.txt,Core Innovation คืออะไร,การเอานวัตกรรมมาพัฒนาต่อยอดธุรกิจเดิมที่มีอยู่
+train/207.txt,Adjacent Innovation หมายถึงอะไร,ธุรกิจเดิมก็ดีอยู่ แต่อยากจะเพิ่มความหลากหลาย ไปที่ธุรกิจใกล้เคียงกับของเดิมแต่ว่า อาจจะเป็นสินค้าบริการรูปแบบใหม่
+train/207.txt,Moonshot คืออะไร,สร้างธุรกิจใหม่ด้วยนวัตกรรมใหม่ๆ
+train/207.txt,ในสมัยก่อนมีการจ้าง Consult เพราะเหตุใด,เพราะว่าเราไม่รู้จะไปหา Best Practice จากที่ไหน ไม่รู้ไปเอาข้อมูลมากจากไหน
+train/207.txt,ปัจจุบันเราสามารถหา Best Practice ได้จากที่ใด,อินเตอร์เน็ต
+train/207.txt,3 แกนที่เป็นหลักในการทำ Innovation คืออะไร,"Design, Business และ Technology"
+train/207.txt,หลักในการทำ Innovation มีกี่แกน,3 แกน
+train/207.txt,การทำนวัตกรรมให้สำเร็จต้องเริ่มจากใครก่อน,ลูกค้า
+train/207.txt,สิ่งที่ธุรกิจซีเมนต์และผลิตภัณฑ์ก่อสร้าง SCG ยึดถือ,Passion for Better Living
+train/208.txt,SCG แจกทุนป.โท ด้านใด,Data Science
+train/208.txt,หลักสูตรปริญญาโทด้าน Data Science เป็นของที่ไหน,HARBOUR.SPACE @UTCC
+train/208.txt,ของมีค่าในยุคนี้คืออะไร,data
+train/208.txt,HARBOUR.SPACE @UTCC เป็น Disruptive university จากประเทศอะไร,สเปน
+train/208.txt,HARBOUR.SPACE @UTCC โดดเด่นในเรืองอะไร,การควบรวมเรื่อง Design Business Technology เข้าไว้ด้วยกัน
+train/208.txt,โปรแกรม 3+3+4 หมายถึงอะไร,เรียนคลาสละ 3 สัปดาห์ 3 ชม./วัน ทำงานจริงใน project ของบริษัท SCG 4 ชม./วัน 
+train/208.txt,HARBOUR.SPACE @UTCC ร่วมมือกับมหาวิทยาลัยใดในประเทศไทย,มหาวิทยาลัยหอการค้าไทย
+train/208.txt,SCG มีทุนการศึกษาที่ครอบคลุม tuition fee ตลอดหลักสูตร 2 ปี มูลค่าเท่าใด,"45,800 ยูโร"
+train/208.txt,หมดเขตรับสมัครเมื่อไร,30 มิถุนายน 63
+train/208.txt,ทุนค่าสมัครเรียนแบบ Full Application มีมูลค่าเท่าไร,125 ยูโร
+train/208.txt,T-shaped skills เป็นอย่างไร,รู้ให้ลึกเหมือนเส้นตรงแนวดิ่งของหางตัว T และรู้ให้รอบเสมือนแขนซ้ายขวาที่ครอบหางตัว T ไว้
+train/209.txt,WEDO เป็นหน่วยงานของที่ใด,บริษัท เอสซีจี ซิเมนต์–ผลิตภัณฑ์ก่อสร้าง จำกัด
+train/209.txt,WEDO มองหา Talent แบบไหน,ความรู้แบบ Technical Skill ได้ แต่ยังต้องดู Soft skill และ Mindset ประกอบกันด้วย
+train/209.txt,ใครได้รับทุนจาก SCG,กุลธิดา ภูมินา
+train/209.txt,ผู้ได้รับทุนมีโอกาสในการร่วมงานกับทีมใดของ WEDO,ทีม Digital Intelligence
+train/209.txt,การชิงทุนการศึกษาจัดขึ้นเมื่อใด,ทีม Digital Intelligence
+train/209.txt,การชิงทุนการศึกษาจัดขึ้นภายใต้ชื่องานอะไร,WEDO x Harbour.Space @UTCC Audition Day 2020
+train/209.txt,การชิงทุนการศึกษาจัดในรูปแบบใด,Audition Day
+train/209.txt,Fearless หมายถึงอะไร,ออกจาก comfort zone มาเผชิญความกลัว แล้วใส่ความกล้า เดินหน้าเต็มกำลัง
+train/209.txt,บททดสอบใน Audition Day มีกี่ด่าน,3 ด่าน
+train/209.txt,Challenge#2: Test ชี้วัดความสามารถด้านใด,logical thinking
+train/209.txt,เกมที่ได้รับการขนานนามว่าเป็น Game of 21st Century Skills คือเกมอะไร,เกม ANACADE
+train/209.txt,เกม ANACADE ช่วยชี้วัดในด้านใด,"ด้าน Collaboration, Communication, Critical Thinking, Creativity รวมทั้ง Mindset สำคัญอย่าง Humble และ fearless"
+train/210.txt,ในธุรกิจใหม่ องค์กรมองหาคนแบบไหน,คนที่มี Talent
+train/210.txt,Digital Office อยากเป็นอะไร,ต้นแบบของ The Next Generation ของ Talent ในยุดถัดไป
+train/210.txt,ระบบเศรษฐกิจยุคใหม่มีชื่อเรียกว่าอะไร,Digital Economy หรือ Creative Economy
+train/210.txt,การทำทรานส์ฟอร์เมชั่น ต้องเริ่มที่ใด,เริ่มที่คน เริ่มจากผู้บริหารลงมาถึงคนที่เล็กที่สุด
+train/210.txt,สิ่งที่สำคัญกว่าความสามารถคืออะไร,ชุดความคิด (Mindset) และ Passion
+train/210.txt,หางและหัวตัว T ใน T-shape Professional หมายถึงอะไร,หางตัว T คือ เทคโนโลยี หัวตัว T คือ เข้าใจลูกค้า
+train/210.txt,พันธกิจหลักของ ​Digital Office มีกี่ระดับ,3 ระดับ
+train/210.txt,พันธกิจหลักระดับแรกของ ​Digital Office คืออะไร,การช่วยทรานส์ฟอร์ม SCG CBM ให้สำเร็จ จากบริษัทที่ผลิตวัสดุก่อสร้างให้เป็น Experience Company
+train/210.txt,พันธกิจหลักระดับสุดท้ายของ ​Digital Office คืออะไร,การขับเคลื่อนระดับประเทศ
+train/211.txt,Digital Compretency มีกี่ด้าน,"มีทั้งหมด 5 ด้าน คือ 1.ความสามารถในการเข้าใจข้อมูลที่เป็นดิจิทัล เช่น ข้อมูลที่มาจากเว็บไซต์ขององค์กร มาจาก IG, Twitter, Facebook ต่างกันอย่างไร 2.การผลิตข้อมูลที่เป็นดิจิทัล 3.เรื่องความปลอดภัยและความเป็นส่วนตัว 4.ความสามารถในการใช้สื่อดิจิทัล และ 5.การสร้างคอนเทนต์ได้เอง"
+train/211.txt,จะทำนวัตกรรมสำเร็จ ต้องประกอบไปด้วย 3 องค์ประกอบคืออะไร,Designable (ลูกค้าอยากได้) ​Practical (เป็นธุรกิจที่ทำได้จริงต้นทุนไม่สูงเกินไป) และ Feasible (ต้องทำเงิน)
+train/211.txt,องค์ประกอบ Designable ต้องการอะไร?,Creativity และ Empathy
+train/211.txt,องค์ประกอบ Practical ต้องการอะไร?,Critical Thinking
+train/211.txt,องค์ประกอบ Feasible ต้องการอะไร?,Growth Mindset
+train/211.txt,เวลาพัฒนาธุรกิจเมื่อก่อน เรียกว่าอะไร?,strategic Project
+train/211.txt,"""ดิจิทัลไม่ใช่คำตอบ ข้อมูล และ วิทยาศาสตร์ข้อมูล เป็นแค่เครื่องมือ"" แล้วคำตอบที่แท้จริงคืออะไร?",เมื่อมีสิ่งเหล่านี้แล้วจะทำให้ลูกค้ามีความสุขมากกว่าคู่แข่งได้อย่างไร
+train/211.txt,ข้อมูลมูลค่าสูงที่ Facebook และ Google มี ได้มาจากไหน?,คนใช้งานสร้างขึ้น
+train/211.txt,ระบบเศรษฐกิจยุคใหม่ วัตถุดิบที่สำคัญคือ?,ข้อมูล
+train/212.txt,โลกในอนาคตค้องการคนแบบไหน,ไม่ต้องการคนเรียนจบมาเฉพาะสายอีกต่อไป ความเป็น Specialist มันไม่ตอบโจทย์ตลาด เพราะสิ่งที่จะมีความสำคัญกับตลาดในอนาคตคือ Generalist หรือคนที่รู้กว้าง มีทักษะมากกว่าด้านใดด้านเดียว
+train/212.txt,ทักษะที่ตอบโจทย์โลกการทำงานอนาคตคืออะไร,"Mindset, Soft Skill และ Hard Skill "
+train/212.txt,บริษัท SCG มีอายุกี่ปีแล้ว?,100
+train/212.txt,ทักษะ Mindset ที่พูดถึง หมายถึงอย่างไร?,ต้องมีวิธีคิดแบบ “เจ้าของกิจการ”
+train/212.txt,สำหรับ ช่างก่ออิฐฉาบปูน ทักษะ Mindset ควรจะเป็นอย่างไร?,มีวิธีคิดว่า สิ่งที่ทำคือการสร้างเกาะคุ้มครองและปกป้องผู้คนในเมืองนี้
+train/212.txt,กลุ่มคนทำงานประเภท Early adopter เหมาะกับการทำงานแบบไหน?,เหมาะกับการนำไปอยู่ในฝ่ายที่พัฒนาธุรกิจใหม่
+train/212.txt,คนประเภท Early adopter จะทำงานแบบไหนได้ดี?,โปรเจ็กต์มาดึงดูด แล้วใส่ความท้าทาย (challenge )เข้าไปให้แก้ปัญหา
+train/212.txt,ถ้าทักษะเป็นสิ่งที่หมดอายุไวมาก แล้วอะไรคือสิ่งที่ไม่มีวันหมดอายุ?,ภูมิปัญญา
+train/212.txt,จากบทความ ยุคปฏิวัติอุตสาหกรรม คือยังไง?,เน้นผลิตคนป้อนเข้าสู่สานพานโรงงาน
+train/213.txt,Chief Digital Officer ของ SCG CBM คือใคร,อภิรัตน์ หวานชะเอม
+train/213.txt,สิ่งที่โลกการทำงานเรียกร้องจากเราคืออะไร,การพร้อมเปลี่ยนทักษะใหม่ตลอดเวลา เพราะทักษะที่ใช้ในการทำงานมันไม่หยุดนิ่ง
+train/213.txt,Brand Inside สัมภาษณ์ใคร?,อภิรัตน์ หวานชะเอม
+train/214.txt,เด็กแบบไหนที่องค์กรยุคใหม่กำลังมองหา,เด็กที่มีของ
+train/214.txt,WEDO เป็นองค์กรแบบไหน,องค์กรที่ต้องการสร้างนวัตกรรม และธุรกิจใหม่ๆ
+train/214.txt,รับชมวีดีโอสัมภาษณ์ได้อย่างไร?,รับชมทาง Youtube: https://www.youtube.com/watch?v=eZ1MMadRuiU
+train/214.txt,แฮชแท็กในบทความมีอะไรบ้าง?,#shakeachange
+train/215.txt,ธุรกิจเดิมก็ดีอยู่ แต่อยากจะสร้าง customer experience ใหม่ ๆ เรียกว่าอะไร,Adjacent
+train/215.txt,Dematerialization คืออะไร,ธุรกิจต้องฝึกวิชาตัวเบา ลดค่าใช้จ่าย และเพิ่ม scalability เปิดช่องให้ธุรกิจขยับขยายได้ 
+train/215.txt,เช็คลิสต์ “คู่มือเอาตัวรอด” จาก Digital Office มีกี่เรื่องที่ต้องคอยตรวจสอบ?,8
+train/215.txt,"ความหมายของ ""Core"" ในเรื่อง “นวัตกรรม” คืออะไร?",การนำนวัตกรรมมาพัฒนาต่อยอดธุรกิจเดิมที่มีอยู่
+train/215.txt,"ความหมายของ ""New"" ในเรื่อง “นวัตกรรม” คืออะไร?",การสร้างธุรกิจใหม่ด้วยนวัตกรรมใหม่ ๆ
+train/215.txt,ตัวอย่างของ Monetization ในบทความคืออะไร?,subscription model
+train/215.txt,ตัวอย่างของ Adjacent ในบทความคืออะไร?,การทำเมนูที่เหมาะกับการ delivery และทานที่บ้าน
+train/215.txt,ตัวอย่างของ Core ในบทความคืออะไร?,ร้านอาหารที่เปลี่ยนครัวให้รองรับระบบ online delivery
+train/216.txt,การทำ digital transformation ที่เป็นเสมือนอะไร,การขึ้นเครื่องบินลำหนึ่ง ออกมุ่งหน้าค้นหาน่านฟ้าใหม่ๆ และมองหา emergency exit ให้กับองค์กร
+train/216.txt,บริษัท มองหาคนรุ่นใหม่ที่เป็น new blood เพื่อทำอะไร,"ทำเรื่องใหม่อย่าง digital transaformation, consulting and digital biz startegy, software delivery, business incubation "
+train/216.txt,การก้าวจากการทำ startup มาสู่องค์กรใหญ่ เปลี่ยนไปอย่างไร,การทำงานอย่างเป็นระบบและมีขั้นตอน เน้นสร้าง impact ที่ใหญ่กว่าแลกมากกับการใช้เวลาที่นานกว่า
+train/216.txt,พนักงานที่ Digital Office ส่วนใหญ่จบการศึกษามาจากสาขาใด,วิศวะและเศรษฐศาตร์
+train/216.txt,อะไรคือสิ่งที่ช่วยยืนยันความเชื่อของผู้เขียนบทความ?,5 คนที่อยู่รอบตัวเราจะมีผลต่อวิธีคิดและการใช้ชีวิตของเรา
+train/216.txt,คุณค่าที่ผู้เขียนบทความได้จากการทำงานมากที่สุดที่ Digital Office คืออะไร?,การทำภาพใหญ่ หรือ corporate startegy และโอกาสการ consult จากพี่ๆ
+train/216.txt,ข้อดีของการทำ strategic partnerships คืออะไร,เราจะคิดเองเออเองคนเดียวไม่ได้ ทุกส่วนอาศัยประสบการณ์ของพี่ๆ ที่มีความหลายหลายเฉพาะทางในด้านนั้นๆ ทำให้เราได้มีโอกาสเรียนรู้ไปด้วย
+train/216.txt,Value Proposition ในวิธีคิดฉบับ Digital Office มีความหมายอย่างไร?,เพื่อให้แน่ใจว่าสิ่งที่กำลังจะทำตอบโจทย์ users จริงๆ หรือหาให้ได้ว่าอะไรคือสิ่งที่เป็น value ของ user
+train/216.txt,ตัวอย่างระบบการดูแลพนักงานที่ Digital Office มีอะไรบ้าง,Health center ใจกลางบริษัทที่จะเดินไปหาหมอเมื่อไหร่ก็ได้
+train/216.txt,ใน Business Framework ต้องการให้ใครบ้าง เข้าใจภาพการทำงาน และจะช่วยให้ทำงานร่วมกันงานขึ้นในภายหลัง?,ผู้ตัดสินใจ (management) และคนทำงาน (operation)
