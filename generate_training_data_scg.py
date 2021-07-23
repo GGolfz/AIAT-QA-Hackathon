@@ -31,7 +31,7 @@ def modifySCGDataFrameToQAformat(df):
             question = j[0]
             answer = j[1]
             answer_start = findAnswerStartFromContext(context,answer)
-            qas.append({"id":len(qas)+1,"is_impossible":answer_start < 0, "question":question,"answer":[{"text":answer,"answer_start":answer_start}]})
+            qas.append({"id":len(qas)+1,"is_impossible":answer_start < 0, "question":question,"answers":[{"text":answer,"answer_start":answer_start}]})
         qa_format.append({"context":context,"qas":qas})
     return qa_format
 def writeDataFrameToQAJSONFile(df,filename):
