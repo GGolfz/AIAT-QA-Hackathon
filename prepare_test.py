@@ -54,7 +54,7 @@ def modifyWikiDataFrameToQAformat(df):
             for j in data[i][1]:
                 id = j[0]
                 question = j[1]
-                qas.append({"id":len(qas)+1,"question":question})
+                qas.append({"id":len(qas)+1,"question":question,"question_id":id})
             qa_format.append({"context":context,"qas":qas})
     return qa_format
 def modifySCGDataFrameToQAformat(df):
@@ -79,7 +79,7 @@ def modifySCGDataFrameToQAformat(df):
         for j in data[i][1]:
             id = j[0]
             question = j[1]
-            qas.append({"id":len(qas)+1,"question":question})
+            qas.append({"id":len(qas)+1,"question":question,"question_id":id})
         qa_format.append({"context":context,"qas":qas})
     return qa_format
 def modifyDataFrameToQaFormat(df):
