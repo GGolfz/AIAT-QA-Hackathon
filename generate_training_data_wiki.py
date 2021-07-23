@@ -42,7 +42,7 @@ def modifyWikiDataFrameToQAformat(df):
         context = f.read()
         f.close()
         context = extract_text(context)
-        if context != None and extract_text != -1:
+        if context != None and context != -1:
             qas = []
             for j in data[i][1]:
                 question = j[0]
