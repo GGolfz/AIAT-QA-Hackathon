@@ -1,7 +1,7 @@
+from numpy.lib.shape_base import split
 import pandas as pd
 import json
-
-df = pd.read_csv('datasets/scg/SCG-Train.csv')
+import numpy as np
 def findAnswerStartFromContext(context,answer):
     try:
         answer_start = context.index(answer)
@@ -34,9 +34,21 @@ def modifySCGDataFrameToQAformat(df):
             qas.append({"id":len(qas)+1,"is_impossible":answer_start < 0, "question":question,"answer":[{"text":answer,"answer_start":answer_start}]})
         qa_format.append({"context":context,"qas":qas})
     return qa_format
+def writeDataFrameToQAJSONFile(df,filename):
+    scg_qa_format = modifySCGDataFrameToQAformat(df)
+    f = open('mod-datasets/scg/'+filename,'w')
+    jsonString = json.dumps(scg_qa_format, ensure_ascii=False).encode('utf8')
+    f.write(jsonString.decode())
+    f.close()
+def main():
+    scgdf = pd.read_csv('datasets/scg/SCG-Train.csv')
+    split_list = np.random.rand(scgdf.shape[0])
+    scgdf.loc[split_list <= 0.8,'set'] = 'train'
+    scgdf.loc[split_list > 0.8, 'set'] = 'eval'
+    train_df = scgdf[scgdf['set'] == 'train']
+    eval_df = scgdf[scgdf['set'] == 'eval']
+    writeDataFrameToQAJSONFile(train_df,'train.json')
+    writeDataFrameToQAJSONFile(eval_df,'eval.json')
 
-scg_qa_format = modifySCGDataFrameToQAformat(df)
-f = open('scg.json','w')
-jsonString = json.dumps(scg_qa_format, ensure_ascii=False).encode('utf8')
-f.write(jsonString.decode())
-f.close()
+if __name__ == '__main__':
+    main()

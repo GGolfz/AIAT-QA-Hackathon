@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 import json
 from lxml import etree
@@ -50,9 +51,23 @@ def modifyWikiDataFrameToQAformat(df):
                 qas.append({"id":len(qas)+1,"is_impossible":answer_start < 0, "question":question,"answer":[{"text":answer,"answer_start":answer_start}]})
             qa_format.append({"context":context,"qas":qas})
     return qa_format
-df = getWikiDataToDataFrame()
-wiki_qa_format = modifyWikiDataFrameToQAformat(df)
-f = open('wiki.json','w')
-jsonString = json.dumps(wiki_qa_format, ensure_ascii=False).encode('utf8')
-f.write(jsonString.decode())
-f.close()
+
+def writeDataFrameToQAJSONFile(df,filename):
+    wiki_qa_format = modifyWikiDataFrameToQAformat(df)
+    f = open('mod-datasets/wiki/'+filename,'w')
+    jsonString = json.dumps(wiki_qa_format, ensure_ascii=False).encode('utf8')
+    f.write(jsonString.decode())
+    f.close()
+def main():
+    wikidf = getWikiDataToDataFrame()
+    split_list = np.random.rand(wikidf.shape[0])
+    wikidf.loc[split_list <= 0.8,'set'] = 'train'
+    wikidf.loc[split_list > 0.8, 'set'] = 'eval'
+    train_df = wikidf[wikidf['set'] == 'train']
+    eval_df = wikidf[wikidf['set'] == 'eval']
+    writeDataFrameToQAJSONFile(train_df,'train.json')
+    writeDataFrameToQAJSONFile(eval_df,'eval.json')
+
+if __name__ == '__main__':
+    main()
+
