@@ -96,6 +96,6 @@ def writeDataToFile(df):
     f.write(jsonString.decode())
     f.close()
 
-df = pd.read_csv('test/SmallTest.csv')
+df = pd.read_csv('test/test.csv')
 df = get_test_data_with_type(df)
 writeDataToFile(df)

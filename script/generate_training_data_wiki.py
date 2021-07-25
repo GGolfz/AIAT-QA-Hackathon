@@ -51,7 +51,33 @@ def modifyWikiDataFrameToQAformat(df):
                 qas.append({"id":len(qas)+1,"is_impossible":answer_start < 0, "question":question,"answers":[{"text":answer,"answer_start":answer_start}]})
             qa_format.append({"context":context,"qas":qas})
     return qa_format
-
+def modifyWikiDataFrameToContextDF(df):
+    data = dict()
+    tempdf = []
+    for i in df.itertuples():
+        if i[2] == 1:
+            filename = str(int(i[7]))
+            question = i[3]
+            answer = i[4]
+            if filename not in data:
+                data[filename] = [filename,[]]
+            data[filename][1].append((question, answer))
+    for i in data:
+        filename = data[i][0]
+        f = open('datasets/wiki/wiki-documents-nsc/'+filename+'.txt','r')
+        context = f.read()
+        f.close()
+        context = extract_text(context)
+        if context != None and context != -1:
+            for j in data[i][1]:
+                question = j[0]
+                answer = j[1]
+                tempdf.append([context,question,answer])
+    moddf = pd.DataFrame(data=tempdf,columns=["input_text","prefix","target_text"])
+    return moddf 
+def writeDataFrameToCSV(df,filename):
+    moddf = modifyWikiDataFrameToContextDF(df)
+    moddf.to_csv('mod-datasets/wiki/'+filename+'.csv',index=False)
 def writeDataFrameToQAJSONFile(df,filename):
     wiki_qa_format = modifyWikiDataFrameToQAformat(df)
     f = open('mod-datasets/wiki/'+filename,'w')
@@ -65,8 +91,10 @@ def main():
     wikidf.loc[split_list > 0.8, 'set'] = 'eval'
     train_df = wikidf[wikidf['set'] == 'train']
     eval_df = wikidf[wikidf['set'] == 'eval']
-    writeDataFrameToQAJSONFile(train_df,'train.json')
-    writeDataFrameToQAJSONFile(eval_df,'eval.json')
+    writeDataFrameToCSV(train_df,'train')
+    writeDataFrameToCSV(eval_df,'eval')
+    # writeDataFrameToQAJSONFile(train_df,'train.json')
+    # writeDataFrameToQAJSONFile(eval_df,'eval.json')
 
 if __name__ == '__main__':
     main()
